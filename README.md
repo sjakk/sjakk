@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### 愛
+<div align="right">
+<img src="lighthouse2.png">
+</br>
+</div>
 <!--
 **sjakk/sjakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
