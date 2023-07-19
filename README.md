@@ -1,6 +1,6 @@
 ### 愛
 <div align="right">
-<img src="lighthouse2.png">
+<img src="sanmiguel.jpg">
 </br>
 </div>
 <!--
